@@ -1,0 +1,21 @@
+# Image-Based Classification of Indonesian Traditional Houses
+# Python 3.10+ required
+
+# Deep Learning
+fastai>=2.7
+torch>=2.0
+torchvision>=0.15
+
+# Data manipulation
+pandas>=2.0
+numpy>=1.24
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Image processing
+opencv-python>=4.8
+
+# Machine Learning utilities
+scikit-learn>=1.3
